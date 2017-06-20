@@ -1,0 +1,95 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\Mono.Data.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\Mono.Data.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.Configuration.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\System.Configuration.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.EnterpriseServices.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\System.EnterpriseServices.dll into Unity Child Domain
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.Security.dll (this message is harmless)
+Loading C:\SoftWareProject\buildtest2_Data\Managed\System.Security.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.047814 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.857703 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 1.952157 ms (FindLiveObjects: 0.112079 ms CreateObjectMapping: 0.049676 ms MarkObjects: 1.769463 ms  DeleteObjects: 0.020527 ms)
+
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: C:\SoftWareProject\buildtest2_Data\Managed\System.Xml.dll (this message is harmless)
+Failed to load 'C:/SoftWareProject/buildtest2_Data/Plugins/sqlite3.dll', expected x86 architecture, but was x64 architecture. You must recompile your plugin for x86 architecture.
+ 
+(Filename:  Line: 140)
+
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/libsqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/libsqlite3
+Failed to load 'C:/SoftWareProject/buildtest2_Data/Plugins/sqlite3.dll', expected x86 architecture, but was x64 architecture. You must recompile your plugin for x86 architecture.
+ 
+(Filename:  Line: 140)
+
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/libsqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/libsqlite3
+Failed to load 'C:/SoftWareProject/buildtest2_Data/Plugins/sqlite3.dll', expected x86 architecture, but was x64 architecture. You must recompile your plugin for x86 architecture.
+ 
+(Filename:  Line: 140)
+
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/sqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/libsqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/SoftWareProject/buildtest2_Data/Mono/libsqlite3
+DllNotFoundException: sqlite3
+  at (wrapper managed-to-native) Mono.Data.Sqlite.UnsafeNativeMethods:sqlite3_open_v2 (byte[],intptr&,int,intptr)
+  at Mono.Data.Sqlite.SQLite3.Open (System.String strFilename, SQLiteOpenFlagsEnum flags, Int32 maxPoolSize, Boolean usePool) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteConnection.Open () [0x00000] in <filename unknown>:0 
+  at Data.Set_InformationCard_Data () [0x00000] in <filename unknown>:0 
+  at Data.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5198 -> priority: 1 
+  Thread -> id: 3a1c -> priority: 1 

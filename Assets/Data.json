@@ -1,0 +1,14 @@
+{
+	"item":[
+		{
+			"name":"아이템1",
+			"image":"item001.png",
+			"price":100
+		},
+		{
+			"name":"아이템2",
+			"image":"item002.png",
+			"price":200
+		},
+		]
+}
